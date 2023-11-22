@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #232",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/232.png",
+  "dna": "3ac45ebfab5167abb6310c543d955c9e56bbbfbe",
+  "edition": 232,
+  "date": 1672317254311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1460",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1460.png",
+  "dna": "cde8b2e9072955c9b352fe9e50b1a04796310eb6",
+  "edition": 1460,
+  "date": 1672317256302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange side"
+    }
+  ]
+}

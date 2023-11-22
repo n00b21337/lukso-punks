@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1055",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1055.png",
+  "dna": "c65e9f2bb1347b1414855bec7aeefa4f1f7ae8b2",
+  "edition": 1055,
+  "date": 1672317250441,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
+    }
+  ]
+}

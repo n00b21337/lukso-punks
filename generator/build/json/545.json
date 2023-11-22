@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #545",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/545.png",
+  "dna": "90a658c10f83379b1735fc88d5b0fb0121738699",
+  "edition": 545,
+  "date": 1672317249415,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 3"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Knitted cap"
+    }
+  ]
+}

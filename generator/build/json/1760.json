@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1760",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1760.png",
+  "dna": "fc1cd1ceed5802fb3e25fbf779ab96b9a1d18e3a",
+  "edition": 1760,
+  "date": 1672317249188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Doctor"
+    }
+  ]
+}

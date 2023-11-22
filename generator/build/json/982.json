@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #982",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/982.png",
+  "dna": "bf3901dc5b301e5b11c2fcab2d543c9dee0cabc2",
+  "edition": 982,
+  "date": 1672317248891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Checkers"
+    }
+  ]
+}

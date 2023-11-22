@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #2",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/2.png",
+  "dna": "aa7aa585b838920e382bfb144acd48c0757ef9a8",
+  "edition": 2,
+  "date": 1672317253807,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wall street"
+    }
+  ]
+}

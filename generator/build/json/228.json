@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #228",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/228.png",
+  "dna": "259076f58e9b09e17d489d0109408c1e2ada7b29",
+  "edition": 228,
+  "date": 1672317258031,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Flowers"
+    }
+  ]
+}

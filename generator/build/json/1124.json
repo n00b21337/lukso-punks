@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1124",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1124.png",
+  "dna": "a1bd9c92bdb83d9242f6c35246854a6a86cd26d9",
+  "edition": 1124,
+  "date": 1672317248420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold chain"
+    }
+  ]
+}

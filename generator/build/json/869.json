@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #869",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/869.png",
+  "dna": "e8d2e4d8cf60545c9c6df51feb8f55f58fef3c1b",
+  "edition": 869,
+  "date": 1672317248843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 5"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

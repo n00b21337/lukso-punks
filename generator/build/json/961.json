@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #961",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/961.png",
+  "dna": "1f59d0ba64089b5b16e793f1f5a7d88ffbb9184f",
+  "edition": 961,
+  "date": 1672317248772,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cardinal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #505",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/505.png",
+  "dna": "527f34c2c810ff391bad7ee94410963d153d4eac",
+  "edition": 505,
+  "date": 1672317251518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 2"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fireman"
+    }
+  ]
+}

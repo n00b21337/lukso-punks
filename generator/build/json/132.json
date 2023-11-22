@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #132",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/132.png",
+  "dna": "2176d893fa2eb4fcea27bb517c510a8c91da36ea",
+  "edition": 132,
+  "date": 1672317258293,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 6"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    }
+  ]
+}

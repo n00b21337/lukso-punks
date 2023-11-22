@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #419",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/419.png",
+  "dna": "88094d4296e70b555410e93d4814afe0dbe411d2",
+  "edition": 419,
+  "date": 1672317252068,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Big"
+    }
+  ]
+}

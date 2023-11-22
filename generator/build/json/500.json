@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #500",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/500.png",
+  "dna": "c2c24317fca03c4e979def02a8d64e21887fe206",
+  "edition": 500,
+  "date": 1672317251062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 4"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sibenik"
+    }
+  ]
+}

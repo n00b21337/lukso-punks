@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #740",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/740.png",
+  "dna": "1d6ccdf9c752a6da802fb9e310f8937d7a995cc2",
+  "edition": 740,
+  "date": 1672317249819,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 6"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk dark"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1780",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1780.png",
+  "dna": "4848dfbaa6f3afd88e29fe3a550f2444b94ad463",
+  "edition": 1780,
+  "date": 1672317255049,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Dark 2"
+    }
+  ]
+}

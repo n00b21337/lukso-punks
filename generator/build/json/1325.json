@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1325",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1325.png",
+  "dna": "4b59e540ced9d08ee4319af56bd17f85e5c8cb63",
+  "edition": 1325,
+  "date": 1672317251933,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 5"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Winter hat"
+    }
+  ]
+}

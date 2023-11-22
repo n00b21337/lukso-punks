@@ -1,0 +1,22 @@
+{
+  "name": "The Croats #1479",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1479.png",
+  "dna": "7bdcdb45dfc08b23e223c013e30ede7df5b96dbd",
+  "edition": 1479,
+  "date": 1672317249912,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Croatian"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male 1"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Classic shades"
+    }
+  ]
+}

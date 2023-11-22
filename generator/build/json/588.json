@@ -2,17 +2,17 @@
   "name": "The Croats #588",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/588.png",
-  "dna": "eca4b1d64e2ffb02d27f768309b7d39e85a2d3fa",
+  "dna": "56b050b7bc42676f5840f6915b195719af5bf313",
   "edition": 588,
-  "date": 1672317258879,
+  "date": 1700686063739,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 6"
+      "value": "Female"
     },
     {
       "trait_type": "Mouth",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Hair",
-      "value": "Housewife"
+      "value": "Cap"
     }
   ]
 }

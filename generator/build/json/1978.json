@@ -2,29 +2,29 @@
   "name": "The Croats #1978",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1978.png",
-  "dna": "471be8f367261383f39f443ae1554e938bc67c25",
+  "dna": "0aa8669b16019cefe915ce78a2a918493ce60466",
   "edition": 1978,
-  "date": 1672317253387,
+  "date": 1700686062998,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 2"
-    },
-    {
-      "trait_type": "Beard",
-      "value": "Handlebars"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ski googles"
+      "value": "Tears"
     },
     {
       "trait_type": "Hair",
-      "value": "Stringy"
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Mask"
     }
   ]
 }

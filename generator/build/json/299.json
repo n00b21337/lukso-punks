@@ -2,33 +2,29 @@
   "name": "The Croats #299",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/299.png",
-  "dna": "3a3b56e54be567cbcc4a8d403c74b85e3bd91194",
+  "dna": "3e883279f024fa8c6d1e4e16545aefb91af999fc",
   "edition": 299,
-  "date": 1672317251918,
+  "date": 1700686063132,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 3"
+      "value": "Male"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Big shades"
+      "trait_type": "Beard",
+      "value": "Luxurious"
     },
     {
-      "trait_type": "Blemishes",
-      "value": "Mole"
+      "trait_type": "Ears",
+      "value": "Silver earring"
     },
     {
       "trait_type": "Hair",
-      "value": "Checkers"
-    },
-    {
-      "trait_type": "Mouthprop",
-      "value": "Bubblegum"
+      "value": "Doctor"
     }
   ]
 }

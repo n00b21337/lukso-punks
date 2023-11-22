@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1996",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1996.png",
+  "dna": "6e16997bc0d42c25f2c1046b4d412ded562aa188",
+  "edition": 1996,
+  "date": 1700686064177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lukso"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
+    }
+  ]
+}

@@ -2,29 +2,29 @@
   "name": "The Croats #492",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/492.png",
-  "dna": "0d3c8789a29fe8c3a77f8e8b49ec0abbf17f72aa",
+  "dna": "7e9048786c235f22d76487a18a20db3db1a76ed3",
   "edition": 492,
-  "date": 1672317255795,
+  "date": 1700686064207,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 4"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "Ski googles"
+      "value": "Blue eyeshadow"
     },
     {
-      "trait_type": "Blemishes",
-      "value": "Piercing"
+      "trait_type": "Ears",
+      "value": "Silver earring"
     },
     {
       "trait_type": "Hair",
-      "value": "Messy hair"
+      "value": "Straight dark"
     }
   ]
 }

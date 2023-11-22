@@ -2,29 +2,29 @@
   "name": "The Croats #1967",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1967.png",
-  "dna": "0cf50963977ce9a67fdb3a4bad0ff853eb616c12",
+  "dna": "ab05948eee1e7b086ff2af99053e5986d26f446d",
   "edition": 1967,
-  "date": 1672317251563,
+  "date": 1700686062963,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 3"
+      "value": "Male"
     },
     {
       "trait_type": "Beard",
-      "value": "Goatee"
+      "value": "Standard grey"
     },
     {
-      "trait_type": "Neck",
-      "value": "Silver chain"
+      "trait_type": "Eyes",
+      "value": "Big shades"
     },
     {
       "trait_type": "Hair",
-      "value": "Short brown"
+      "value": "Cap forward"
     }
   ]
 }

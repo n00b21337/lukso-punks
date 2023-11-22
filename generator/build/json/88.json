@@ -2,25 +2,25 @@
   "name": "The Croats #88",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/88.png",
-  "dna": "aa0641aaea7564ce67359ca430d9b280754f2d82",
+  "dna": "fef6f0f2f95c35e80351bbe8be7b81fc7f19712b",
   "edition": 88,
-  "date": 1672317252894,
+  "date": 1700686063175,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 2"
+      "value": "Male"
     },
     {
       "trait_type": "Beard",
-      "value": "Handlebars"
+      "value": "Mustache"
     },
     {
       "trait_type": "Hair",
-      "value": "Short grey"
+      "value": "Doctor"
     }
   ]
 }

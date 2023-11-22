@@ -2,29 +2,25 @@
   "name": "The Croats #1374",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1374.png",
-  "dna": "4bfa896126918a149b5203feeb8128893deecc5c",
+  "dna": "23bcd2151042b59f0d2be85a313f540165b295f4",
   "edition": 1374,
-  "date": 1672317259424,
+  "date": 1700686064237,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 4"
+      "value": "Female"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D glasses"
-    },
-    {
-      "trait_type": "Neck",
-      "value": "Gold diamond necklace"
+      "value": "Nerd glasses"
     },
     {
       "trait_type": "Hair",
-      "value": "Straight"
+      "value": "Cap"
     }
   ]
 }

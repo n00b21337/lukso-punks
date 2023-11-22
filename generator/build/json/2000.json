@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #2000",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/2000.png",
+  "dna": "9f409830fbf1c7cdcfbde453d0726262f0cc1c23",
+  "edition": 2000,
+  "date": 1700686063011,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lukso"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mohawk"
+    }
+  ]
+}

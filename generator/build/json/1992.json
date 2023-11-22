@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1992",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1992.png",
+  "dna": "d67765d92326c187b09d5eded661cde467cc6c48",
+  "edition": 1992,
+  "date": 1700686061760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lukso"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Clown nose"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Frumpy"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
+    }
+  ]
+}

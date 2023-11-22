@@ -2,29 +2,29 @@
   "name": "The Croats #1947",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1947.png",
-  "dna": "3040048d87aceb613186696a59c70373a3de18fa",
+  "dna": "06498ff5a5304c964977467706686fb728a6077d",
   "edition": 1947,
-  "date": 1672317248549,
+  "date": 1700686062044,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 5"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "Tears"
-    },
-    {
-      "trait_type": "Ears",
-      "value": "Gold earring"
+      "value": "Eye mask"
     },
     {
       "trait_type": "Hair",
-      "value": "Wild"
+      "value": "Sibenik"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigaret"
     }
   ]
 }

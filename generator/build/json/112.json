@@ -2,29 +2,33 @@
   "name": "The Croats #112",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/112.png",
-  "dna": "87030ee6108edb6f61689009883e5f6b382a556d",
+  "dna": "b3e1902c6f09c980ef463cea01891baebb54af1d",
   "edition": 112,
-  "date": 1672317257843,
+  "date": 1700686062027,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 2"
+      "value": "Male"
     },
     {
       "trait_type": "Eyes",
-      "value": "3D glasses"
+      "value": "Regular shades"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
     },
     {
       "trait_type": "Hair",
-      "value": "Pigtails"
+      "value": "Shaved"
     },
     {
       "trait_type": "Mouthprop",
-      "value": "Medical mask"
+      "value": "Mask"
     }
   ]
 }

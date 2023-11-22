@@ -2,25 +2,25 @@
   "name": "The Croats #51",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/51.png",
-  "dna": "f32ff643bf8ed85e5a7b8a8fd42c344ea15e71b1",
+  "dna": "a1eaaae208b08a28b9f584db2551bd616aed38ef",
   "edition": 51,
-  "date": 1672317259408,
+  "date": 1700686064375,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 3"
+      "value": "Female"
     },
     {
       "trait_type": "Hair",
-      "value": "Housewife 2"
+      "value": "Peaks pike"
     },
     {
       "trait_type": "Mouthprop",
-      "value": "Bubble gum"
+      "value": "Medical mask"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "name": "The Croats #266",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/266.png",
-  "dna": "e8c6a4c69d34d067ed86faa9683bf8f0d841f729",
+  "dna": "0eb962630e62ac58ed42b3c6e8f695521de5390b",
   "edition": 266,
-  "date": 1672317257287,
+  "date": 1700686065132,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 4"
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple eyeshadow"
     },
     {
       "trait_type": "Hair",
-      "value": "Blonde short"
+      "value": "Straight dark"
     }
   ]
 }

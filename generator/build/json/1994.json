@@ -1,0 +1,30 @@
+{
+  "name": "The Croats #1994",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1994.png",
+  "dna": "65ea36758d6312f5b7cf48bab67afd9774d8f1b8",
+  "edition": 1994,
+  "date": 1700686065302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lukso"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gold earring"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black lipstick"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Housewife 2"
+    }
+  ]
+}

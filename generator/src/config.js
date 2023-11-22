@@ -24,7 +24,7 @@ const solanaMetadata = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1011,
+    growEditionSizeTo: 1000,
     layersOrder: [
       {
         name: "m/background",
@@ -89,7 +89,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 1991,
+    growEditionSizeTo: 2000,
     layersOrder: [
       {
         name: "f/background",

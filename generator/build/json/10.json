@@ -2,33 +2,29 @@
   "name": "The Croats #10",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/10.png",
-  "dna": "0f44c0fce4d66bed63e815d8a62a19f158d2c015",
+  "dna": "757385dd0ef2a048679f35497809d618548da900",
   "edition": 10,
-  "date": 1672317253237,
+  "date": 1700686064767,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 5"
+      "value": "Female"
     },
     {
-      "trait_type": "Beard",
-      "value": "Goatee"
-    },
-    {
-      "trait_type": "Blemishes",
-      "value": "Clown nose"
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
     },
     {
       "trait_type": "Hair",
-      "value": "Tourist"
+      "value": "Short"
     },
     {
       "trait_type": "Mouthprop",
-      "value": "Cigaret"
+      "value": "Bubble gum"
     }
   ]
 }

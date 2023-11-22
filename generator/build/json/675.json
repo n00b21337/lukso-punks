@@ -2,21 +2,25 @@
   "name": "The Croats #675",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/675.png",
-  "dna": "5db1bddf9c95ae5c8426024deb53185a3d55d93c",
+  "dna": "ed745a4475eed8bb0c02145a7f066dbf0f2e3e47",
   "edition": 675,
-  "date": 1672317254838,
+  "date": 1700686064980,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 3"
+      "value": "Female"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D glasses"
     },
     {
       "trait_type": "Hair",
-      "value": "Messy hair"
+      "value": "Vampire"
     }
   ]
 }

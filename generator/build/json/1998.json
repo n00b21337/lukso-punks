@@ -1,0 +1,26 @@
+{
+  "name": "The Croats #1998",
+  "description": "Bespoke collection of Croatian nation",
+  "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1998.png",
+  "dna": "239bd1881d14e0dacd0e034a324898ae5fbb0ffc",
+  "edition": 1998,
+  "date": 1700686064966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lukso"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Peaks pike"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Cigar"
+    }
+  ]
+}

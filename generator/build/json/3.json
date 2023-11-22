@@ -2,21 +2,29 @@
   "name": "The Croats #3",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/3.png",
-  "dna": "4199eca21025ab02fd2aa0255fcaaff1a991debf",
+  "dna": "3f819a57c8984cc4806851a1b8bf5407d36ff248",
   "edition": 3,
-  "date": 1672317256145,
+  "date": 1700686065153,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 4"
+      "value": "Female"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Silver earring"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
     },
     {
       "trait_type": "Hair",
-      "value": "Peaks pike"
+      "value": "Dark 2"
     }
   ]
 }

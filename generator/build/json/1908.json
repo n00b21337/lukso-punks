@@ -2,25 +2,21 @@
   "name": "The Croats #1908",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1908.png",
-  "dna": "d1c10404e7acad592570a12e60ca658fb6d5f54a",
+  "dna": "443b2e12fadaf2bd281ac9e3df67bf9c4c072547",
   "edition": 1908,
-  "date": 1672317259332,
+  "date": 1700686063606,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Female 5"
+      "value": "Female"
     },
     {
       "trait_type": "Hair",
-      "value": "Nurse"
-    },
-    {
-      "trait_type": "Mouthprop",
-      "value": "Medical mask"
+      "value": "Pigtails"
     }
   ]
 }

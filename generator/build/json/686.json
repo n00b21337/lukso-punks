@@ -2,29 +2,33 @@
   "name": "The Croats #686",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/686.png",
-  "dna": "db2b39a68111e3ab29711ea2cdd39e294339a374",
+  "dna": "f647d69b6b2da503148c0d62f9354c5ab6a731f0",
   "edition": 686,
-  "date": 1672317253321,
+  "date": 1700686065238,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 3"
+      "value": "Female"
     },
     {
-      "trait_type": "Beard",
-      "value": "Standard dark"
+      "trait_type": "Eyes",
+      "value": "Tears"
     },
     {
-      "trait_type": "Neck",
-      "value": "Gold chain"
+      "trait_type": "Ears",
+      "value": "Gold earring"
     },
     {
       "trait_type": "Hair",
-      "value": "Winter hat"
+      "value": "Straight dark"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Bubble gum"
     }
   ]
 }

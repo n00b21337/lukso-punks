@@ -2,33 +2,29 @@
   "name": "The Croats #85",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/85.png",
-  "dna": "f7d782c530c2a683b518dd8bb9bb99f1c4cb063c",
+  "dna": "436416be044009319f67d034ca4d46a36389f23d",
   "edition": 85,
-  "date": 1672317250913,
+  "date": 1700686062824,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 5"
+      "value": "Male"
     },
     {
-      "trait_type": "Beard",
-      "value": "Goatee"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Nerd glasses"
-    },
-    {
-      "trait_type": "Blemishes",
-      "value": "Clown nose"
+      "trait_type": "Ears",
+      "value": "Silver earring"
     },
     {
       "trait_type": "Hair",
-      "value": "Fireman"
+      "value": "Knitted cap"
+    },
+    {
+      "trait_type": "Mouthprop",
+      "value": "Vape"
     }
   ]
 }

@@ -2,29 +2,25 @@
   "name": "The Croats #1800",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1800.png",
-  "dna": "1e884d008016e09b1475a3134acc21350f252be5",
+  "dna": "054e2815fddfffbca041cda639b3bdd8bcfe8d11",
   "edition": 1800,
-  "date": 1672317253327,
+  "date": 1700686065031,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 2"
+      "value": "Female"
     },
     {
-      "trait_type": "Beard",
-      "value": "Standard white"
+      "trait_type": "Neck",
+      "value": "Gold diamond necklace"
     },
     {
       "trait_type": "Hair",
-      "value": "Stringy"
-    },
-    {
-      "trait_type": "Mouthprop",
-      "value": "Mask"
+      "value": "Pigtails"
     }
   ]
 }

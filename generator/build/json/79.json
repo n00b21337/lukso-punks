@@ -2,25 +2,25 @@
   "name": "The Croats #79",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/79.png",
-  "dna": "92da5c8cfb76f80a4e5db1818db21e17a67543ff",
+  "dna": "0cd7e9ed85513dac869faf127e85ca7bd85a9ef9",
   "edition": 79,
-  "date": 1672317248929,
+  "date": 1700686063804,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 3"
+      "value": "Female"
+    },
+    {
+      "trait_type": "Blemishes",
+      "value": "Mole"
     },
     {
       "trait_type": "Hair",
-      "value": "Checkers"
-    },
-    {
-      "trait_type": "Mouthprop",
-      "value": "Vape"
+      "value": "Half shaved"
     }
   ]
 }

@@ -2,21 +2,25 @@
   "name": "The Croats #50",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/50.png",
-  "dna": "578e47f39f1e63a98b123733717c84f75bf94882",
+  "dna": "eaf9c8b9bb30d9dfd5eca0d608ac396550cceb66",
   "edition": 50,
-  "date": 1672317248597,
+  "date": 1700686061693,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 5"
+      "value": "Male"
+    },
+    {
+      "trait_type": "Beard",
+      "value": "Handlebars"
     },
     {
       "trait_type": "Hair",
-      "value": "Baseball"
+      "value": "Sibenik"
     }
   ]
 }

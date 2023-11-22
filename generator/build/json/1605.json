@@ -2,29 +2,25 @@
   "name": "The Croats #1605",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/1605.png",
-  "dna": "6002d141101cb3ccaaf238585f5bae8298735d6e",
+  "dna": "2eacbc7d8be081ba3375724593eccfd3cb62a4c5",
   "edition": 1605,
-  "date": 1672317250776,
+  "date": 1700686064602,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 2"
+      "value": "Female"
     },
     {
-      "trait_type": "Beard",
-      "value": "Luxurious"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smile"
+      "trait_type": "Eyes",
+      "value": "Lasereyes gold"
     },
     {
       "trait_type": "Hair",
-      "value": "Wall street"
+      "value": "Dark"
     }
   ]
 }

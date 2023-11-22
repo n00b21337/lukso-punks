@@ -2,33 +2,29 @@
   "name": "The Croats #311",
   "description": "Bespoke collection of Croatian nation",
   "image": "https://bah5acgzaolutqsfwjlmlaa342cumtx7bj63gonixw354xnbkmy44tdih3nma.bzz.link/311.png",
-  "dna": "53bd440d2ce0864d8475274b6f307774943e9fff",
+  "dna": "dab74d36627f42294845245fbc30b81abc8933b5",
   "edition": 311,
-  "date": 1672317251046,
+  "date": 1700686063032,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Croatian"
+      "value": "Lukso"
     },
     {
       "trait_type": "Skin",
-      "value": "Male 3"
+      "value": "Male"
     },
     {
       "trait_type": "Beard",
-      "value": "Big"
+      "value": "Standard"
     },
     {
-      "trait_type": "Eyes",
-      "value": "Brown glasses"
+      "trait_type": "Ears",
+      "value": "Gold earring"
     },
     {
       "trait_type": "Hair",
-      "value": "Wall street"
-    },
-    {
-      "trait_type": "Mouthprop",
-      "value": "Vape"
+      "value": "Tourist"
     }
   ]
 }
